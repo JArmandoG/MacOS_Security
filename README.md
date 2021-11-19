@@ -27,3 +27,7 @@ Double click this file to enter the password, and it will be mounted into the FS
 ![file](images/test_mounted.png)
 
 This will be mounted until restart, so to unmount it manually we need to eject it.
+
+---
+
+To-do: Add sandboxing applications (Firejail-like sandboxing, built-in feature)
