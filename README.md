@@ -1,6 +1,17 @@
+To-do: Add sandboxing applications (Firejail-like sandboxing, built-in feature), 
+
+---
+
 # MacOS_Security
 
-## #1: Encrypt a folder
+## MacOS Security & tools
+
+[Objective-See](https://www.objective-see.com/products.html)
+
+[Macops - Google Repo / scripts & tools](https://github.com/google/macops)
+
+
+## File/Folder encryption:
 
 Encryption of existing or new folders:
 
@@ -30,4 +41,3 @@ This will be mounted until restart, so to unmount it manually we need to eject i
 
 ---
 
-To-do: Add sandboxing applications (Firejail-like sandboxing, built-in feature)
