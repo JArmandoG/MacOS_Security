@@ -4,7 +4,7 @@ To-do: Add sandboxing applications (Firejail-like sandboxing, built-in feature),
 
 TOC:
 - File/Folder Encryption (Disk Utility)
-- Keychain Internals
+- [Keychain Internals](https://github.com/JArmandoG/MacOS_Security/blob/main/README.md#apple-keychain-internals)
 
 # MacOS_Security
 
