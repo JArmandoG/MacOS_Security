@@ -189,3 +189,4 @@ typedef CF_ENUM(FourCharCode, SecProtocolType)
     kSecProtocolTypeAny         =  0
 };
 ```
+CREDITS: SANTIGZ
