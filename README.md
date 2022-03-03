@@ -1,4 +1,9 @@
-To-do: Add sandboxing applications (Firejail-like sandboxing, built-in feature), 
+To-do:
+- [X] File & Folder encryption
+- [ ] Update Keychain locations/Info (Deprecated now)
+- [ ] Add sandboxing applications (sandbox-exec)
+- [ ] MacOS Hardening
+- [ ] Privacy / Security settings
 
 ---
 
